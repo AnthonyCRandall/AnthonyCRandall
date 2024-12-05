@@ -4,10 +4,6 @@
 
 Appreciate you stopping by--lets dive right in! ...So who am I? Great question! I'm a fresh graduate with a knack for data science and a naturally curious mind that's always asking questions. I am a person who finds excitement in working with real-world data to solve problems, make accurate predictions, and provide meaningful information. I love to continuously learn, as well as experiment with new tools for maximum efficiency and to stay up to date. All of the repositories found on my GitHub are a mix of class projects and fun side projects, all in which were built from the ground up (from planning and designing, all the way to construction and implementation). Okay, now that I think that I've created somewhat of an image of myself, go ahead and take a **`".peek()"`** at my work. If you have any questions or interest in chatting about anything, feel free to reach out!
 
-<p align="center">
-  <a href="https://github.com/AnthonyCRandall?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/AnthonyCRandall?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-
 </p>
 
 ---
